@@ -1,0 +1,72 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\IRON\Desktop\∫ÏÕ‚≤‚Œ¬\MTP10\MTP10.PcbDoc
+Date     : 2020/9/28
+Time     : 15:47:24
+
+Processing Rule : Clearance Constraint (Gap=8mil) (InPolygon),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5.5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('24V_L02_P042')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) ((InLayerClass('Signal Layers'))),((OnLayer('Keep-Out Layer')))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=20mil) (InNamedPolygon('24V_L02_P042')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=100mil) (Preferred=30mil) (InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=100mil) (Preferred=20mil) (InNetClass('pwr'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=1000mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=1mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (0.949mil < 1mil) Between Text "510K" (530.577mil,235.7mil) on Top Overlay And Track (614.41mil,224.409mil)(614.41mil,275.591mil) on Top Overlay Silk Text to Silk Clearance [0.949mil]
+   Violation between Silk To Silk Clearance Constraint: (0.897mil < 1mil) Between Text "MTP10-B7F55" (791.516mil,5.699mil) on Top Overlay And Track (880.645mil,36.645mil)(880.645mil,69.147mil) on Top Overlay Silk Text to Silk Clearance [0.897mil]
+   Violation between Silk To Silk Clearance Constraint: (0.897mil < 1mil) Between Text "MTP10-B7F55" (791.516mil,5.699mil) on Top Overlay And Track (880.645mil,36.645mil)(920.015mil,36.645mil) on Top Overlay Silk Text to Silk Clearance [0.897mil]
+Rule Violations :3
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 3
+Waived Violations : 0
+Time Elapsed        : 00:00:01

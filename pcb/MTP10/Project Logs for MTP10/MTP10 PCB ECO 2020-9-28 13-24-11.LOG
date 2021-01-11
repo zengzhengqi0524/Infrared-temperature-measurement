@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=V_temp Pin=JP1-1
+Removed Pin From Net: NetName=V_amb Pin=JP1-2
+Added Pin To Net: NetName=V_amb Pin=JP1-1
+Added Pin To Net: NetName=V_temp Pin=JP1-2
+Added Room: Name=MTP10

@@ -1,0 +1,7 @@
+Added Component: Designator=U1(SOT23-5M)
+Added Pin To Net: NetName=NetC5_2 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=NetC1_2 Pin=U1-3
+Added Pin To Net: NetName=NetC5_1 Pin=U1-4
+Added Pin To Net: NetName=NetC2_1 Pin=U1-5
+Added Member To Class: ClassName=MTP10 Member=Component U1 ÒÇ±í·Å´óÆ÷

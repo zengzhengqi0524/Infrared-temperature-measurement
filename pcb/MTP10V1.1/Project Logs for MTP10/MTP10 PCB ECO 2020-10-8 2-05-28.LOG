@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetR2_1 Pin=U2-1
+Removed Pin From Net: NetName=V_amb Pin=U2-2
+Removed Pin From Net: NetName=1.25V_REF Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U2-4
+Removed Member From Class: ClassName=MTP10 Member=U2
+Added Component: Designator=U?(MTP-10B)
+Added Pin To Net: NetName=NetR2_1 Pin=U?-1
+Added Pin To Net: NetName=V_amb Pin=U?-2
+Added Pin To Net: NetName=1.25V_REF Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Member To Class: ClassName=MTP10 Member=Component U? MTP10-B7F55
+Added Room: Name=MTP10

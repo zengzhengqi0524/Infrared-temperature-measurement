@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=*? NewDesignator=*1
+Change Component Designator: OldDesignator=*? NewDesignator=*2
+Change Component Designator: OldDesignator=*? NewDesignator=*3
+Added Member To Class: ClassName=MTP10 Member=Component *1 M3
+Added Member To Class: ClassName=MTP10 Member=Component *2 M3
+Added Room: Name=MTP10
